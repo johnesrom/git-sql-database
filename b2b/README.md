@@ -1,3 +1,3 @@
 # B2B
 
-Projeto vinculado via SQbanker.
+Projeto criado via SQbanker.
