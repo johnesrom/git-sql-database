@@ -1,0 +1,1 @@
+select c.* from VW_API_LEVE_SF_CONTATO_inc c WHERE cpf in ('04050359774') or nome in ('LEANDRO', 'FREDERICO');
